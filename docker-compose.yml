@@ -1,0 +1,14 @@
+# MongoDB 7 listo para usar. Los scripts de la carpeta ./scripts quedan
+# disponibles dentro del contenedor en /scripts (solo lectura).
+services:
+  mongo:
+    image: mongo:7
+    container_name: renta-videos-mongo
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+      - ./scripts:/scripts:ro
+
+volumes:
+  mongo_data:
