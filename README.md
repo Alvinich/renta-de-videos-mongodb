@@ -1,3 +1,9 @@
+Alvaro Marvin Fabian Chuquimia(Alvinich)
+Cristian Josue Cori Copa (josuecoricopa)
+Gabriel Adalid Mendoza Flores(RealMandril)
+Pablo Sebastian Alcoreza Mamani(Sebas69710)
+
+
 # 🎬 Renta de videos — Implementación en MongoDB
 
 **Universidad Privada Franz Tamayo** · Ingeniería de Sistemas e Innovación Digital
